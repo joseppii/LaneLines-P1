@@ -1,11 +1,5 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
-
----
-
 **Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
@@ -15,8 +9,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
-
+[image1]: ./test_images_output/solidWhiteCurve.jpg "solidWhiteCurve"
+[image2]: ./test_images_output/solidWhiteRight.jpg "solidWhiteRight"
+[image3]: ./test_images_output/solidYellowCurve.jpg "solidYellowCurve"
+[image4]: ./test_images_output/solidYellowCurve2.jpg "solidYellowCurve2"
+[image5]: ./test_images_output/solidYellowLeft.jpg "solidYellowLeft"
+[image6]: ./test_images_output/whiteCarLaneSwitch.jpg "whiteCarLaneSwitch"
 ---
 
 ### Reflection
