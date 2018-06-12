@@ -8,7 +8,6 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
-
 [image1]: ./test_images_output/solidWhiteCurve.jpg "solidWhiteCurve"
 [image2]: ./test_images_output/solidWhiteRight.jpg "solidWhiteRight"
 [image3]: ./test_images_output/solidYellowCurve.jpg "solidYellowCurve"
