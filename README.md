@@ -39,6 +39,11 @@ The resulting videos can be found in the test_videos_output folder.
 
 ![alt text][image1]
 
+The here is the result of the pipeline applied to a video: 
+
+[![Lanefinding](https://i.ytimg.com/vi/c7TwRf190B0/hqdefault.jpg)](https://youtu.be/c7TwRf190B0)
+
+
 
 ### 2. Identify potential shortcomings with your current pipeline
 
